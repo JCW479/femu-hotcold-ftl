@@ -2,7 +2,7 @@
 
 > SSD Write Amplification 48% 감소 — FEMU Blackbox FTL에 Hot/Cold 데이터 분리 기법 적용
 
-**Advanced System Programming Final Project** | Hanyang University, 2024  
+**Advanced System Programming Final Project** | Hanyang University, 2025
 *Team: 김나현, 지찬웅*
 
 ---
